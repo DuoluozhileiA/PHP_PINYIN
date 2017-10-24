@@ -1,7 +1,7 @@
 <?php
 /**
  * PHP 汉字转拼音 [包含20902个基本汉字+5059生僻字]
- * @author 楼教主(cik520@qq.com)
+ * @author 楼教主(415900617@qq.com)
  * @version v1.2
  * @note 请开启 mb_string 扩展
  */
